@@ -14,8 +14,10 @@ Para encontrar arquivo na pasta local de o comando
 cd N_rainhas
 
 Para executar a Busca em profundidade de o comando 
+
 ...\python3 N_rainhas_busca.py
  
             
 Para executar a Hill climbing de o comando 
+
 ...\python3 N_rainhas_hill.py
