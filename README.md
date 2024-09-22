@@ -9,6 +9,7 @@ Para excutar online acesse: <https://colab.research.google.com/drive/1ORA7o8zW2M
 
 
 No Prompt de comando execute:
+
 Para encontrar arquivo na pasta local de o comando 
 cd N_rainhas
 
